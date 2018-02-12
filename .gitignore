@@ -1,0 +1,5 @@
+
+# I don't want .dat and results/
+
+*.dat
+results/
